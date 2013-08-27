@@ -4544,6 +4544,10 @@ borderverst             1000 sazhen
 russianmile             7 verst
 
 
+!utf8
+м                       m
+
+!endutf8
 
 
 #
