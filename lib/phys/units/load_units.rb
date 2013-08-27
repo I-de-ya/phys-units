@@ -4550,7 +4550,8 @@ russianmile             7 verst
 м                       m
 Вт                      W
 кВт                     kW
-м3/ч                    m^3/hour
+м3                      м^3
+ч                       hour
 кг                      kg
 мм                      mm
 м                       m
