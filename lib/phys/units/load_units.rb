@@ -4546,7 +4546,18 @@ russianmile             7 verst
 
 !utf8
 м                       m
-
+дБ                      dB
+м                       m
+Вт                      W
+кВт                     kW
+м3/ч                    m^3/hour
+кг                      kg
+мм                      mm
+м                       m
+дюйм                    inch
+Па                      Pa
+А                       A
+В                       V
 !endutf8
 
 
