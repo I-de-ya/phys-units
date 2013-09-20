@@ -4545,19 +4545,43 @@ russianmile             7 verst
 
 
 !utf8
-м                       m
-дБ                      dB
-м                       m
 Вт                      W
 кВт                     kW
-м3                      м^3
-ч                       hour
+BTU                     btu
+
+т                       t
 кг                      kg
-мм                      mm
+г                       g
+
+км                      km
 м                       m
+см                      cm
+мм                      mm
 дюйм                    inch
+
+м3                      m^3
+см3                     cm^3
+мм3                     mm^3
+л                       l
+
+м2                      m^2
+см2                     cm^2
+мм2                     mm^2
+
+с                       s
+ч                       hour
+
+°C                      tempC
+
+кПа                     kPa
 Па                      Pa
+торр                    torr
+
 А                       A
+мА                      mA
+
+дБ(А)                   dB
+
 В                       V
 !endutf8
 
