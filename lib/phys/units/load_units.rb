@@ -4545,8 +4545,8 @@ russianmile             7 verst
 
 
 !utf8
-Вт                      W
 кВт                     kW
+Вт                      W
 BTU                     btu
 
 т                       t
@@ -4558,6 +4558,9 @@ BTU                     btu
 см                      cm
 мм                      mm
 дюйм                    inch
+мкм                     micron
+
+Нм                      N*m
 
 м3                      m^3
 см3                     cm^3
@@ -4568,9 +4571,6 @@ BTU                     btu
 см2                     cm^2
 мм2                     mm^2
 
-с                       s
-ч                       hour
-
 °C                      tempC
 
 кПа                     kPa
@@ -4580,9 +4580,26 @@ BTU                     btu
 А                       A
 мА                      mA
 
+В                       V
+
 дБ(А)                   dB
 
-В                       V
+с                       s
+мин                     minute
+ч                       hour
+час                     hour
+день                    day
+год                     year
+
+Н                       N
+
+об                      1
+
+Гц                      Hz
+кГц                     kHz
+
+"% RH"                  percent
+
 !endutf8
 
 
