@@ -4598,7 +4598,7 @@ BTU                     btu
 Гц                      Hz
 кГц                     kHz
 
-%RH                  percent
+%RH                     percent
 
 !endutf8
 
