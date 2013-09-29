@@ -4558,7 +4558,7 @@ BTU                     btu
 см                      cm
 мм                      mm
 дюйм                    inch
-мкм                     micron
+мкм                     micrometer
 
 Нм                      N*m
 
